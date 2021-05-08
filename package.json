@@ -61,7 +61,7 @@
     "he": "1.2.0",
     "iconv-lite": "0.4.24",
     "imgur": "0.3.1",
-    "json-bigint": "0.3.0",
+    "json-bigint": "1.0.0",
     "koa": "2.7.0",
     "koa-basic-auth": "4.0.0",
     "koa-favicon": "2.0.1",
