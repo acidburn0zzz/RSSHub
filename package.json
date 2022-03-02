@@ -74,7 +74,7 @@
     "node-fetch": "2.3.0",
     "path-to-regexp": "3.0.0",
     "pidusage": "2.0.17",
-    "plist": "3.0.1",
+    "plist": "3.0.4",
     "puppeteer": "1.14.0",
     "redis": "2.8.0",
     "rss-parser": "3.7.0",
